@@ -1,0 +1,2 @@
+# DESIGN-AND-IMPLEMENTATION-OF-ANTENNA-RANGE-TESTER-FOR-RADIO-FREQUENCY-SIGNAL-STRENGTH-ANALYSIS
+This project develops a low-cost antenna range tester to measure RF signal strength and communication range. Using an RF transmitter, receiver, microcontroller, and OLED display, the system provides real-time signal analysis, enabling efficient antenna testing, performance evaluation, and wireless communication studies.
